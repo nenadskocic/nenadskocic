@@ -9,8 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play soccer & listen to classical music
         
-![Nenad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenadskocic&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenadskocic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Nenad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenadskocic&count_private=true&bg_color=C9CFD6)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenadskocic&layout=compact&bg_color=C9CFD6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
