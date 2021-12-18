@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to play soccer & listen to classical music
         
 ![Nenad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenadskocic&count_private=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenadskocic&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenadskocic&layout=compact&theme=darcula&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
