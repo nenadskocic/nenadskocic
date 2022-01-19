@@ -1,6 +1,6 @@
 ### Here is what I am working on! 👋
 
-- 🔭 I’m currently working on Dispatch Web App
+- 🔭 I’m currently working on a Makeup website for a client.
 - 🌱 I’m currently learning Azure 
 - 👯 I’m looking to collaborate on Vue.js & Azure
 - 🤔 I’m looking for help with Azure
