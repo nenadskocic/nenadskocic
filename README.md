@@ -12,6 +12,8 @@
 ![Nenad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenadskocic&count_private=true&theme=calm)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenadskocic&layout=compact&theme=calm&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nenadskocic&theme=gruvbox)](https://github.com/nenadskocic/github-profile-trophy)
+
 ### Connect with me:
 
 [<img align="left" alt="enigmaly.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
