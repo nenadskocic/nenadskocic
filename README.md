@@ -1,12 +1,11 @@
 ### Here is what I am working on! 👋
 
-- 🔭 I’m currently working on a Makeup website for a client.
-- 🌱 I’m currently learning Azure 
-- 👯 I’m looking to collaborate on Vue.js & Azure
-- 🤔 I’m looking for help with Azure
+- 🔭 I’m currently working on a Recruitment website
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on React.js
+- 🤔 I’m looking for help with React.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [linkedin]
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play soccer & listen to classical music
         
 ![Nenad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenadskocic&count_private=true&theme=calm)
